@@ -11,6 +11,11 @@ public class Principal {
 		//Declarar nuestras variables
 		
 
+		//Se agrego este codigo 
+		int x=10;
+		System.out.println("New number: " + 2*x);
+		//Termina el nuevo codigo 
+		
 		Scanner lectura = null;
 		
 		String matricula, nombre, genero;
