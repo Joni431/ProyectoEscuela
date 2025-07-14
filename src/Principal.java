@@ -14,6 +14,8 @@ public class Principal {
 		//Se agrego este codigo 
 		int x=10;
 		System.out.println("New number: " + 2*x);
+		int y=10;
+		System.out.println("New number: " + 2*y);
 		//Termina el nuevo codigo 
 		
 		Scanner lectura = null;
